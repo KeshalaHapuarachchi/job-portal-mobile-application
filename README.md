@@ -5,6 +5,7 @@ There is a four main parts, as **1. User Management
                                  2. Post Job Vacancies
                                  3. Apply for Jobs
                                  4. Payment Portal,**
+                                 
 
 # LOGIN/ SIGN UP/ USER MANAGEMENT
 
@@ -13,7 +14,7 @@ There is a four main parts, as **1. User Management
 •	**U**pdate – If the user wants to change the user details except email, then user can edit and the user profile gets updated.
 •	**D**elete – If user wants to delete the profile, he/she can delete it. When the user enter the credentials of that profile and try to login, the system shows the email or password is incorrect. That means the profile has been deleted.
       
-    ![Screenshot (29)](https://github.com/Keshala09/job-portal-mobile-application/assets/105196447/8206326b-8128-4c1d-87a8-27a8235238bd)
+![Screenshot (29)](https://github.com/Keshala09/job-portal-mobile-application/assets/105196447/8206326b-8128-4c1d-87a8-27a8235238bd)
 
 
 # POST JOB VACANCIES
@@ -23,7 +24,7 @@ There is a four main parts, as **1. User Management
 •	**U**pdate – The user can update any detail in the job he/she posted.
 •	**D**elete – The user can delete the job posted and once the user deleted it, user cannot see the job in the Your Ads page.
 
-    ![Screenshot (30)](https://github.com/Keshala09/job-portal-mobile-application/assets/105196447/30e498a5-6c07-45c4-a49e-fb540aa3dea5)
+![Screenshot (30)](https://github.com/Keshala09/job-portal-mobile-application/assets/105196447/30e498a5-6c07-45c4-a49e-fb540aa3dea5)
 
 
 # APPLY FOR JOB
@@ -33,7 +34,7 @@ There is a four main parts, as **1. User Management
 •	**U**pdate - Then the user can edit the details if necessary. If there are nothing to edit user can apply the job successfully.
 • **D**elete - User can delete the uploaded file if the user has uploaded wrong file. 
 
-    ![Screenshot (32)](https://github.com/Keshala09/job-portal-mobile-application/assets/105196447/a7d18436-8405-4e36-835b-c9861e239dfc)
+![Screenshot (32)](https://github.com/Keshala09/job-portal-mobile-application/assets/105196447/a7d18436-8405-4e36-835b-c9861e239dfc)
 
 
 # PAYMENT PORTAL
@@ -43,7 +44,7 @@ There is a four main parts, as **1. User Management
 •	**U**pdate – If the user wants to edit the details entered, he/she can edit them and again the total amount to be paid will be calculated and updated. Then again user must upload the payment proof. 
 •	**D**elete - User can delete the uploaded file if the user has uploaded wrong file of payment proof. 
 
-    ![Screenshot (33)](https://github.com/Keshala09/job-portal-mobile-application/assets/105196447/b9a4ae13-7c0c-4de1-9116-14da5484de25)
+![Screenshot (33)](https://github.com/Keshala09/job-portal-mobile-application/assets/105196447/b9a4ae13-7c0c-4de1-9116-14da5484de25)
 
 
 ...........................Thank You..!!!...............................
