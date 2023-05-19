@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pngtree_city_science_and_technology_city_blue_technology_sense_technology_lines_picture_image_1473376">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="359dp"
+        android:layout_height="32dp"
+        android:text="Edit the necessary fields : "
+        android:textColor="@color/material_dynamic_neutral99"
+        android:textSize="16dp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.769"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.1" />
+
+    <Button
+        android:id="@+id/button14"
+        android:layout_width="162dp"
+        android:layout_height="54dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:background="@drawable/photo_1629197521865_4946b4acd2b0"
+        android:text="Confirm"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.976" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="168dp"
+        android:layout_height="48dp"
+        android:text="Full Name : "
+        android:textColor="@color/material_dynamic_neutral99"
+        android:textSize="21dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.164"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.155" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName16"
+        android:layout_width="325dp"
+        android:layout_height="57dp"
+        android:background="@drawable/edittext_background"
+        android:ems="10"
+        android:hint="Enter your full name"
+        android:inputType="textPersonName"
+        android:paddingStart="24dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/material_dynamic_neutral70"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.465"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.204" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="176dp"
+        android:layout_height="36dp"
+        android:text="Email : "
+        android:textColor="@color/material_dynamic_neutral99"
+        android:textSize="21dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.174"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.29" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName17"
+        android:layout_width="332dp"
+        android:layout_height="60dp"
+        android:background="@drawable/edittext_background"
+        android:ems="10"
+        android:hint="Enter your email"
+        android:inputType="textPersonName"
+        android:paddingStart="24dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/material_dynamic_neutral_variant70"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.506"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.348" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="177dp"
+        android:layout_height="39dp"
+        android:text="Contact number : "
+        android:textColor="@color/material_dynamic_neutral99"
+        android:textSize="21dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.166"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.434" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName18"
+        android:layout_width="333dp"
+        android:layout_height="60dp"
+        android:background="@drawable/edittext_background"
+        android:ems="10"
+        android:hint="Enter your contact number"
+        android:inputType="textPersonName"
+        android:paddingStart="24dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/material_dynamic_neutral70"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.494" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="348dp"
+        android:layout_height="54dp"
+        android:text="Computer Engineer"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.65"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.023" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

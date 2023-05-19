@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/newwwwwwwwwwwwww">
+
+    <EditText
+        android:id="@+id/editTextTextPersonName9"
+        android:layout_width="332dp"
+        android:layout_height="60dp"
+        android:background="@drawable/edittext_background"
+        android:ems="10"
+        android:hint="Enter the number of ads"
+        android:inputType="number"
+        android:paddingStart="24dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/material_dynamic_neutral70"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.455"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.348" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="369dp"
+        android:layout_height="37dp"
+        android:text="No of ads posting : "
+        android:textColor="@color/material_dynamic_neutral99"
+        android:textSize="17dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.857"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.301" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="241dp"
+        android:layout_height="36dp"
+        android:fontFamily="@font/berkshire"
+        android:text="PAYMENT PORTAL"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.023" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="177dp"
+        android:layout_height="39dp"
+        android:text="Tax : "
+        android:textColor="@color/material_dynamic_neutral99"
+        android:textSize="17dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.153"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.592" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="369dp"
+        android:layout_height="37dp"
+        android:text="Payment method(Bank Deposit/Online) : "
+        android:textColor="@color/material_dynamic_neutral99"
+        android:textSize="17dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.857"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.144" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="359dp"
+        android:layout_height="32dp"
+        android:text="Edit the necessary fields : "
+        android:textColor="@color/material_dynamic_neutral99"
+        android:textSize="16dp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.692"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.084" />
+
+    <TextView
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="333dp"
+        android:layout_height="60dp"
+        android:background="@drawable/edittext_background"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:paddingStart="24dp"
+        android:text="250"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.448"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.649" />
+
+    <TextView
+        android:id="@+id/editTextTextPersonName4"
+        android:layout_width="332dp"
+        android:layout_height="60dp"
+        android:background="@drawable/edittext_background"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:paddingStart="24dp"
+        android:text="1500"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.455"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.499" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName7"
+        android:layout_width="332dp"
+        android:layout_height="60dp"
+        android:background="@drawable/edittext_background"
+        android:ems="10"
+        android:hint="Enter the payment method"
+        android:inputType="textPersonName"
+        android:paddingStart="24dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/material_dynamic_neutral70"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.455"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.19" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="179dp"
+        android:layout_height="40dp"
+        android:text="Charge per ad : "
+        android:textColor="@color/material_dynamic_neutral99"
+        android:textSize="17dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.155"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.447" />
+
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="143dp"
+        android:layout_height="54dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:background="@drawable/photo_1629197521865_4946b4acd2b0"
+        android:text="Confirm"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.976" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

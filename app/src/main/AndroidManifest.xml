@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/letter_f_logo_design_template_on_transparent_background_png_removebg_preview"
+        android:label="FineX"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MADP"
+        tools:targetApi="31">
+
+        <!-- activities -->
+
+        <activity
+            android:name=".Post1Activity"
+            android:exported="false" />
+
+        <activity
+            android:name=".Post2Activity"
+            android:exported="false" />
+
+        <activity
+            android:name=".Post3Activity"
+            android:exported="false" />
+
+        <activity
+            android:name=".PostEditActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".ApplyJob1Activity"
+            android:exported="false" />
+
+        <activity
+            android:name=".ApplyJob2Activity"
+            android:exported="false" />
+
+        <activity
+            android:name=".ApplyJob3Activity"
+            android:exported="false" />
+
+        <activity
+            android:name=".ApplyJobEditActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".Payment1Activity"
+            android:exported="false" />
+
+        <activity
+            android:name=".Payment2Activity"
+            android:exported="false" />
+
+        <activity
+            android:name=".EditPaymentActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".DashboardActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".EditActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".Register1Activity"
+            android:exported="false" />
+
+        <activity
+            android:name=".Register2Activity"
+            android:exported="false" />
+
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+
+        <!-- main activity -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" /> <!-- main entry point -->
+
+                <category android:name="android.intent.category.LAUNCHER" /> <!-- this activity displayed in launcher -->
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

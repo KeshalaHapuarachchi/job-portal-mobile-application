@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122278414047",
+    "project_id": "finex-37cc6",
+    "storage_bucket": "finex-37cc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122278414047:android:dd4e671852cb7c0f850b6a",
+        "android_client_info": {
+          "package_name": "com.example.madp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122278414047-ho6f91e78o4loecvminlnfoj36lrhiu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR6ooBSxV9vwY8ge-8laifAh1A_y6zOco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122278414047-ho6f91e78o4loecvminlnfoj36lrhiu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
