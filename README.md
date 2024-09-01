@@ -51,31 +51,3 @@ There is a four main parts, as **1. User Management
 
 
 
-# YoungSuwa Fitness
-
-Welcome to the **YoungSuwa Fitness** project! This project is a comprehensive web application designed to manage various aspects of a fitness center, including user registration, package management, service and facilities management, and more. The application is built using modern web technologies to provide a seamless experience for both users and administrators.
-
-## Table of Contents
-
-- [Project Overview](#project-overview) ![image](https://github.com/user-attachments/assets/850a1adc-52a0-4208-ad39-b96da3982ec3)
-
-
-## Project Overview
-
-YoungSuwa Fitness is a web-based application designed to streamline the management of a fitness center. It allows users to sign up, view packages, and access various services and facilities offered by the fitness center. The application also includes an admin panel for managing users, packages, and facilities.
-
-## Features
-
-- **User Registration**: Users can sign up for the gym by providing their personal details. Admins can approve or reject user registrations.
-- **Package Management**: Admins can create, update, delete, and view fitness packages.
-- **Service & Facilities Management**: Admins can manage the various services and facilities offered by the gym.
-- **Contact Us**: Users can contact the fitness center for inquiries or assistance.
-- **Admin Panel**: A dedicated admin panel for managing users, packages, and facilities.
-
-## Installation
-
-To get started with the YoungSuwa Fitness project, follow these steps:
-
-
-
-
